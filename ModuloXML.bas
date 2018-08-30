@@ -1,6 +1,6 @@
 Attribute VB_Name = "ModuloXML"
 Sub From_XML_To_XL()
-'UpdatebyKutoolsforExcel20151214
+
     Dim xWb As Workbook
     Dim xSWb As Workbook
     Dim xStrPath As String
